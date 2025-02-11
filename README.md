@@ -44,10 +44,6 @@ This Power BI dashboard provides an interactive analysis of patient visits acros
 
 5 Slicers → Department filter and Date range filter
 
-## Dashboard 
-
-file:///C:/Users/HP/Downloads/Dashboard%20Screenshot_convertedToImages.zip
-
 ##Final Conclusion
 
 The Patient Data Analysis Dashboard provides key insights into hospital operations, helping in resource allocation, staff management, and patient care optimization. It identifies the busiest department, tracks patient visit trends, and analyzes age distribution for better healthcare planning. Interactive filters and slicers make data exploration easier, enabling data-driven decision-making for hospital
