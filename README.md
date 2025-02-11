@@ -46,6 +46,6 @@ This Power BI dashboard provides an interactive analysis of patient visits acros
 
 ## Dashboard 
 
-C:\Users\HP\Downloads\Dashboard Screenshot_convertedToImages.zip
+file:///C:/Users/HP/Downloads/Dashboard%20Screenshot_convertedToImages.zip
 
 
