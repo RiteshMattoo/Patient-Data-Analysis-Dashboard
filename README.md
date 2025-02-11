@@ -1,6 +1,6 @@
 #Patient Data Analysis using PowerBi Dashboard
 
-##Prject Overview
+##Project Overview
 This Power BI dashboard provides an interactive analysis of patient visits across various hospital departments. It helps visualize total patients, busiest departments, age distribution, and patient visit trends over time.
 
 ##Key Features
